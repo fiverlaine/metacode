@@ -495,7 +495,7 @@ function App() {
             </div>
 
             <h1 className="relative text-5xl md:text-6xl font-bold mb-2 text-transparent bg-clip-text bg-gradient-to-r from-[#17cf1f] via-white to-[#17cf1f] tracking-tight">
-  METACODE
+  FENIXCODE
 </h1>
 
           </div>
