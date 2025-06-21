@@ -642,7 +642,7 @@ function App() {
                         className="px-4 py-3 rounded-md bg-gradient-to-r from-[#17cf1f]/30 to-gray-800 hover:from-[#17cf1f]/40 hover:to-gray-700 transition-all flex items-center gap-2 w-full justify-center shadow-md shadow-[#17cf1f]/10 border border-[#17cf1f]/20"
                       >
                         <ExternalLink size={20} className="text-white" />
-                        <span className="text-white font-bold">ACESSAR SAFEEPG777</span>
+                        <span className="text-white font-bold">ACESSAR BETLION</span>
                       </button>
                     </div>
                   )}
