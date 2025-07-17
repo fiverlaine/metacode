@@ -323,7 +323,7 @@ function App() {
 
   // Função para lidar com o clique no botão acessar betlion
   const handleBrokerClick = () => {
-    window.open('https://betlionpro.com?aff=67433', '_blank');
+    window.open('https://betlionpro.com?aff=67433&utm=fenixcode&src=fenixcode', '_blank');
     playClickSound();
   };
 
